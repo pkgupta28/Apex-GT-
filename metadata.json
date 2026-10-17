@@ -1,0 +1,6 @@
+{
+  "name": "Apex GT: Circuit Overdrive",
+  "description": "High-speed 3D Grand Touring circuit and highway racing game with procedural supercars, drift physics, nitro boost, and dynamic environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
